@@ -28,9 +28,6 @@ Features:
 - Power: Built-in rechargeable battery with charging circuit
 
 
-<h2>Setup</h2>
-
-![WhatsApp Image 2025-06-22 at 16 26 38](https://github.com/user-attachments/assets/1e8768ed-6d3a-4f66-9dd8-91ff530ea7c5)
 
 <h2>Schematic</h2>
 
@@ -41,6 +38,18 @@ Features:
 ![pcb1](https://github.com/user-attachments/assets/de7cf788-f19d-4a72-8f52-c36841873612)
 ![pcb2](https://github.com/user-attachments/assets/67eb05c0-93dc-49ad-bdf6-afdffa7c7f62)
 ![pcb3](https://github.com/user-attachments/assets/4c519ef6-7281-4e9a-af50-b7df18d0dccb)
+
+<h2>Setup</h2>
+
+![WhatsApp Image 2025-06-22 at 16 26 38](https://github.com/user-attachments/assets/1e8768ed-6d3a-4f66-9dd8-91ff530ea7c5)
+
+<h2> Working Video </h2>
+
+https://github.com/user-attachments/assets/c0b89b00-765c-46c9-96d5-a79226db0dfd
+
+https://github.com/user-attachments/assets/fa7a4603-ffcd-4ff7-a3ee-2d5423cac2e8
+
+
 
 
 <h2>Applications</h2>
